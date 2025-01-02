@@ -28,6 +28,11 @@ This project is a web-based tool built using Flet that helps you search for subd
    ```bash
    flet run main.py
    ```
-4. To Run the CLI program
+4. To Run the Tkinter program
    ```bash
+   python main_tk.py
+   ```
+5. To Run the CLI program
+   ```bash
+   python main_cli.py
    ```
