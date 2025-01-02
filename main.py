@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-
 def find_links(domain):
     base_url = f"https://{domain}"
     visited_links = set()
